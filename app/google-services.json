@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "864284743924",
+    "firebase_url": "https://assign-90b97-default-rtdb.firebaseio.com",
+    "project_id": "assign-90b97",
+    "storage_bucket": "assign-90b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864284743924:android:11bf41461252e67180a6a1",
+        "android_client_info": {
+          "package_name": "com.harsh.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApmXAhpxM43PdJl-n7ojLghfw1lD040-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
