@@ -14,18 +14,19 @@ For Login have used Firebase for having a real time connection and updates of if
 
 
 <h2>2.Home Screen</h2>
-![WhatsApp Image 2024-05-16 at 12 30 34 AM](https://github.com/devharsh2k4/My-Meet/assets/103301856/01cfa15b-7dce-48a9-b7b5-36eae8813a1c)
-
-
 
 The home screen consists of all the users available in the network with whom if they are active we can have a video call
 we have functionalities of watching if user is active or offline 
 we can have an audio or video call as well
+![WhatsApp Image 2024-05-16 at 12 30 34 AM](https://github.com/devharsh2k4/My-Meet/assets/103301856/5923f02a-3f87-48da-b0c9-f8a5fdc2f5b6)
+
 
 
 <h2>3.Video Call Screen</h2>
 
-In video call screen 
+In video call screen
+![WhatsApp Image 2024-05-16 at 12 30 37 AM](https://github.com/devharsh2k4/My-Meet/assets/103301856/65dbc85b-97f1-480c-b56f-2a826e8f49d9)
+
 we have options to mute or unmute ourself 
 we can mute the speaker as well
 we can rotate the camera
