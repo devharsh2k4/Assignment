@@ -36,6 +36,7 @@ we can screenshare our screen
 
 
 ### Tools and Languages: 
-<p align="left">    <img src="https://www.vectorlogo.zone/logos/kotlin/kotlin-icon.svg" alt="git" width="40" height="40"/> 
-
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<p align="left">    
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png" alt="android" width="40" height="40"/> </a> 
+ <a href="https://kotlinlang.org/docs/home.html" target="_blank"> <img src="https://user-images.githubusercontent.com/89024718/146764078-25a14dea-055e-44ae-aba2-1651b8c1d952.png" alt="kotlin" width="40" height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>  </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
