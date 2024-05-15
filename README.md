@@ -5,12 +5,12 @@ My-Meet is an implementation of webrtc video call with firebase signaling server
 <h1>WorkFlow of App</h1>
 
 <h2>1.Login Screen</h2>
-![WhatsApp Image 2024-05-16 at 12 30 29 AM](https://github.com/devharsh2k4/My-Meet/assets/103301856/0bd7abaf-7e39-43b2-8c3a-fc72934d72d8)
+For Login have used Firebase for having a real time connection and updates of if user is active or offline
+![WhatsApp Image 2024-05-16 at 12 30 29 AM](https://github.com/devharsh2k4/My-Meet/assets/103301856/77f2147c-2ef7-4282-847e-57bff59ca567)
 
-For Login have uused Firebase for having a real time connection and updates of if user is active or offline
 
 <h2>2.Home Screen</h2>
-![WhatsApp Image 2024-05-16 at 12 30 34 AM](https://github.com/devharsh2k4/My-Meet/assets/103301856/4a0fd065-17cc-4291-a3e6-6e9ad497d4d3)
+
 
 The home screen consists of all the users available in the network with whom if they are active we can have a video call
 we have functionalities of watching if user is active or offline 
@@ -18,7 +18,6 @@ we can have an audio or video call as well
 
 
 <h2>3.Video Call Screen</h2>
-![WhatsApp Image 2024-05-16 at 12 30 37 AM](https://github.com/devharsh2k4/My-Meet/assets/103301856/07355896-227f-40f0-b62a-7f9b2a75cad7)
 
 In video call screen 
 we have options to mute or unmute ourself 
