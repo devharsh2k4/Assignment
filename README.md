@@ -1,15 +1,21 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/devharsh2k4/My-Meet?logo=github&style=for-the-badge)](https://github.com/devharsh2k4/) 
 
+
+
 My-Meet is an implementation of webrtc video call with firebase signaling server 
 
 <h1>WorkFlow of App</h1>
 
 <h2>1.Login Screen</h2>
+
+
 For Login have used Firebase for having a real time connection and updates of if user is active or offline
 ![WhatsApp Image 2024-05-16 at 12 30 29 AM](https://github.com/devharsh2k4/My-Meet/assets/103301856/77f2147c-2ef7-4282-847e-57bff59ca567)
 
 
 <h2>2.Home Screen</h2>
+![WhatsApp Image 2024-05-16 at 12 30 34 AM](https://github.com/devharsh2k4/My-Meet/assets/103301856/01cfa15b-7dce-48a9-b7b5-36eae8813a1c)
+
 
 
 The home screen consists of all the users available in the network with whom if they are active we can have a video call
