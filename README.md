@@ -1,5 +1,5 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/devharsh2k4/My-Meet?logo=github&style=for-the-badge)](https://github.com/devharsh2k4/) 
-[![GitHub last commit](https://img.shields.io/github/last-commit/devharsk2k4/My-Meet?style=for-the-badge&logo=git)](https://github.comdevharsk2k4/My-Meet/) 
+[![GitHub last commit](https://img.shields.io/github/last-commit/devharsk2k4/My-Meet?style=for-the-badge&logo=git)](https://github.comdevharsk2k4/My-Meet) 
 [![Code size](https://img.shields.io/github/languages/code-size/devharsk2k4/My-Meet?style=for-the-badge)](https://github.com/devharsk2k4/My-Meet)
 [![Languages](https://img.shields.io/github/languages/count/devharsk2k4/My-Meet?style=for-the-badge)](https://github.com/devharsk2k4/My-Meet)
 [![Top](https://img.shields.io/github/languages/top/devharsk2k4/My-Meet?style=for-the-badge&label=Top%20Languages)](https://github.com/devharsk2k4/My-Meet)
